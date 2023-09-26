@@ -1,0 +1,12 @@
+{
+  "name": "Python SQL Development",
+  "dockerFile": "Dockerfile",
+  "forwardPorts": [8000],
+  "postCreateCommand": "pip install --no-cache-dir -r requirements.txt",
+  "settings": {
+    "python.pythonPath": "/usr/local/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+  },
+  "extensions": ["ms-python.python"]
+}
