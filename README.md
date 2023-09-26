@@ -5,4 +5,4 @@ This project is represented by a simple Python script that interacts with an SQL
 
 ***When run the Python script, you're going to see some results of operations like insertion, update and delete of the data.
 
-# For the deliverables, please see the uploaded screenshot of the output called "deliverable.jpeg"
+# For the deliverables, please see the uploaded screenshot of the output called "deliverable.png"
